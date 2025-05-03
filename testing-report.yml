@@ -74,6 +74,19 @@
   status: pass
 
 
+- summary: |
+     Проверка кнопки "Create a game"
+  status: pass
+
+
+- summary: |
+    Проверка кнопки "Create battle"
+  status: pass
+
+
+
+
+
 
 
 
