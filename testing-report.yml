@@ -1,1 +1,86 @@
+---
+- summary: |
+    Проверка пробного соревнования
+  status: pass
 
+
+- summary: |
+    Проверка Фавикона (Иконки сайта) незарегистрированного пользователя
+  status: pass
+
+
+- summary: |
+    Проверка входа пользователя с с существующими логином и паролем
+  status: pass
+
+
+- summary: |
+    Проверка регистрации нового пользователя
+  status: pass
+
+
+- summary: |
+    Проверка авторизации пользователя с помощью аккаунта на GitHub
+  status: pass
+
+
+- summary: |
+    Проверка авторизации пользователя с помощью аккаунта на Discord
+  status: pass
+
+
+- summary: |
+    Проверка функции "Forgot your password?"
+  status: pass
+
+
+- summary: |
+    Проверка иконки отображения пароля
+  status: pass
+
+
+- summary: |
+    Проверка Фавикона (Иконки сайта) зарегистрированного пользователя
+  status: pass
+
+
+- summary: |
+    Проверка вкладки "Lobby"
+  status: pass
+
+
+- summary: |
+    Проверка вкладки "Tournaments"
+  status: pass
+
+
+- summary: |
+    Проверка вкладки "History"
+  status: pass
+
+
+- summary: |
+     Проверка общего чата
+  status: pass
+
+
+- summary: |
+     Проверка отображения общего количества игроков в онлайне
+  status: pass
+
+
+- summary: |
+     Проверка Таблицы Лидеров
+  status: pass
+
+
+
+
+
+
+
+
+
+
+ 
+  
